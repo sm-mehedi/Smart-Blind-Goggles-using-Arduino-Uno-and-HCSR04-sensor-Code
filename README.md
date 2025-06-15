@@ -6,7 +6,7 @@
 
 <h2>📽️ Project Demonstration</h2>
 <p>
-  <a href="https://youtu.be/YourVideoID" target="_blank">▶️ Watch the Demo Video</a>
+  <a href="https://youtu.be/NryeHlxK-iQ?si=rGh0vEzg2MLM_4n5" target="_blank">▶️ Watch the Demo Video</a>
 </p>
 
 <hr>
