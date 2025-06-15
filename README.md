@@ -1,9 +1,6 @@
 <h1 align="center">👓 Smart Vision: Ultrasonic Goggles for the Visually Impaired using Arduino</h1>
 
-<p align="center">
-  <b>COE 3102: Microprocessor and Embedded Systems</b><br>
-  <b>Group - 4</b><br>
-</p>
+
 
 <hr>
 
