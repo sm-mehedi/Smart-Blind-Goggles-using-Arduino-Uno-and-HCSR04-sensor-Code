@@ -123,9 +123,5 @@ void loop() {
 
 <hr>
 
-<h2>📧 Contact</h2>
-<p>
-  For any queries or collaboration, feel free to contact <strong>Group 4</strong> via email at: <a href="mailto:your-email@example.com">your-email@example.com</a>
-</p>
 
 <p align="center">⭐️ Star this repo if you found it helpful!</p>
